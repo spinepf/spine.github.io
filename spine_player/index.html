@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>Spine Web Player</title>
+    <script src="https://esotericsoftware.com/files/spine-player/3.8/spine-player.js"></script>
+    <link rel="stylesheet" href="https://esotericsoftware.com/files/spine-player/3.8/spine-player.css">
+</head>
+<body>
+    <div id="player" style="width: 640px; height: 480px;"></div>
+    <script>
+        new spine.SpinePlayer("player", {
+            jsonUrl: "/assets/max.json", 
+            atlasUrl: "/assets/max.atlas",
+            animation: "animation", 
+            backgroundColor: "#666666" 
+        });
+    </script>
+</body>
+</html>
