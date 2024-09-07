@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>Spine Web Player</title>
+    <script src="https://esotericsoftware.com/spine-player.min.js"></script>
+    <link rel="stylesheet" href="https://esotericsoftware.com/spine-player.min.css" />
+</head>
+<body>
+    <div id="player-container" style="width: 640px; height: 480px"></div>
+    <script>
+        new spine.SpinePlayer("player-container", {
+            jsonUrl: "https://github.com/spinepf/spine.github.io/blob/main/max.json
+",
+            atlasUrl: "https://github.com/spinepf/spine.github.io/blob/main/data/max.atlas",
+            autoplay: true,
+            loop: true
+        });
+    </script>
+</body>
+</html>
