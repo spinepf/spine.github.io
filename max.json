@@ -1,0 +1,293 @@
+{ "skeleton": { "images": "C:/Users/ehdso/OneDrive/바탕 화면/스파인습작/08.29/images/" },
+"PhotoshopToSpine": { "scale": 1, "padding": 1, "trim": true },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "레이어 1", "bone": "root" },
+	{ "name": "Box_Door", "bone": "root", "attachment": "Box_Door" },
+	{ "name": "character_background", "bone": "root", "attachment": "character_background" },
+	{ "name": "Back_L_Side_Hair_1_2", "bone": "root", "attachment": "Back_L_Side_Hair_1_2" },
+	{ "name": "Back_Hair", "bone": "root", "attachment": "Back_Hair" },
+	{ "name": "Back_L_Side_Hair_1", "bone": "root", "attachment": "Back_L_Side_Hair_1" },
+	{ "name": "L_Side_Hair_2_3", "bone": "root", "attachment": "L_Side_Hair_2_3" },
+	{ "name": "Soulder_L", "bone": "root", "attachment": "Soulder_L" },
+	{ "name": "L_Side_Hair_2_2", "bone": "root", "attachment": "L_Side_Hair_2_2" },
+	{ "name": "Arm_L", "bone": "root", "attachment": "Arm_L" },
+	{ "name": "Finger_R_2", "bone": "root", "attachment": "Finger_R_2" },
+	{ "name": "Finger_R_2_1", "bone": "root", "attachment": "Finger_R_2_1" },
+	{ "name": "Finger_R_1", "bone": "root", "attachment": "Finger_R_1" },
+	{ "name": "Finger_R_1_1", "bone": "root", "attachment": "Finger_R_1_1" },
+	{ "name": "THIGH_L", "bone": "root", "attachment": "THIGH_L" },
+	{ "name": "BODY", "bone": "root", "attachment": "BODY" },
+	{ "name": "THIGH_R", "bone": "root", "attachment": "THIGH_R" },
+	{ "name": "Cloth ACC", "bone": "root", "attachment": "Cloth ACC" },
+	{ "name": "Back_Hair_R_Fr", "bone": "root", "attachment": "Back_Hair_R_Fr" },
+	{ "name": "Back_R_Side_Hair_2_2", "bone": "root", "attachment": "Back_R_Side_Hair_2_2" },
+	{ "name": "Plug_Acc_Back", "bone": "root", "attachment": "Plug_Acc_Back" },
+	{ "name": "CHEST", "bone": "root", "attachment": "CHEST" },
+	{ "name": "Neck", "bone": "root", "attachment": "Neck" },
+	{ "name": "Face", "bone": "root", "attachment": "Face" },
+	{ "name": "Mouth", "bone": "root", "attachment": "Mouth" },
+	{ "name": "CHEST_ACC", "bone": "root", "attachment": "CHEST_ACC" },
+	{ "name": "L_Side_Hair_3_1", "bone": "root", "attachment": "L_Side_Hair_3_1" },
+	{ "name": "L_Side_Hair_2_1", "bone": "root", "attachment": "L_Side_Hair_2_1" },
+	{ "name": "L_Side_Hair_2", "bone": "root", "attachment": "L_Side_Hair_2" },
+	{ "name": "L_Side_Hair_1_1", "bone": "root", "attachment": "L_Side_Hair_1_1" },
+	{ "name": "Back_R_Side_Hair__2_1", "bone": "root", "attachment": "Back_R_Side_Hair__2_1" },
+	{ "name": "Back_R_Side_Hair_1_1", "bone": "root", "attachment": "Back_R_Side_Hair_1_1" },
+	{ "name": "R_Side_Hair_1_3", "bone": "root", "attachment": "R_Side_Hair_1_3" },
+	{ "name": "Shoulder_R", "bone": "root", "attachment": "Shoulder_R" },
+	{ "name": "Hand_R", "bone": "root", "attachment": "Hand_R" },
+	{ "name": "Arm_R", "bone": "root", "attachment": "Arm_R" },
+	{ "name": "Ring_Back", "bone": "root", "attachment": "Ring_Back" },
+	{ "name": "Arm_Acc_2", "bone": "root", "attachment": "Arm_Acc_2" },
+	{ "name": "Arm_Acc_1", "bone": "root", "attachment": "Arm_Acc_1" },
+	{ "name": "Arm_Acc_Line_2", "bone": "root", "attachment": "Arm_Acc_Line_2" },
+	{ "name": "Ring_Fr", "bone": "root", "attachment": "Ring_Fr" },
+	{ "name": "Arm_Acc_Line_1", "bone": "root", "attachment": "Arm_Acc_Line_1" },
+	{ "name": "R_Side_Hair_1_2", "bone": "root", "attachment": "R_Side_Hair_1_2" },
+	{ "name": "Front_Hair_1_3", "bone": "root", "attachment": "Front_Hair_1_3" },
+	{ "name": "R_Side_Hair_1_1", "bone": "root", "attachment": "R_Side_Hair_1_1" },
+	{ "name": "Front_Hair_1_2", "bone": "root", "attachment": "Front_Hair_1_2" },
+	{ "name": "Front_Hair_1_1", "bone": "root", "attachment": "Front_Hair_1_1" },
+	{ "name": "Hair_Top", "bone": "root", "attachment": "Hair_Top" },
+	{ "name": "Back_R_Side_Hair_1_2", "bone": "root", "attachment": "Back_R_Side_Hair_1_2" },
+	{ "name": "Eyelid_L", "bone": "root", "attachment": "Eyelid_L" },
+	{ "name": "Eyelid_R", "bone": "root", "attachment": "Eyelid_R" },
+	{ "name": "Eyebrow_L", "bone": "root", "attachment": "Eyebrow_L" },
+	{ "name": "Eyebrow_R", "bone": "root", "attachment": "Eyebrow_R" },
+	{ "name": "Foot", "bone": "root", "attachment": "Foot" },
+	{ "name": "LEG_R", "bone": "root", "attachment": "LEG_R" },
+	{ "name": "TOE_R_2", "bone": "root", "attachment": "TOE_R_2" },
+	{ "name": "TOE_R_1", "bone": "root", "attachment": "TOE_R_1" },
+	{ "name": "BOX fr", "bone": "root", "attachment": "BOX fr" },
+	{ "name": "BOX Fr Shadow", "bone": "root", "attachment": "BOX Fr Shadow" },
+	{ "name": "BG_ACC", "bone": "root", "attachment": "BG_ACC" },
+	{ "name": "box open acc_1", "bone": "root", "attachment": "box open acc_1" },
+	{ "name": "box open acc_2", "bone": "root", "attachment": "box open acc_2" },
+	{ "name": "goat_Hair", "bone": "root", "attachment": "goat_Hair" },
+	{ "name": "Plug_Acc_Fr", "bone": "root", "attachment": "Plug_Acc_Fr" },
+	{ "name": "Effect_led", "bone": "root", "attachment": "Effect_led" },
+	{ "name": "Effect_led_around", "bone": "root", "attachment": "Effect_led_around" },
+	{ "name": "원본 복사", "bone": "root" },
+	{ "name": "Neck_greenLight", "bone": "root", "attachment": "Neck_greenLight" },
+	{ "name": "Neck_greenLight_Arround", "bone": "root", "attachment": "Neck_greenLight_Arround" },
+	{ "name": "Box_Door_down", "bone": "root", "attachment": "Box_Door_down" }
+],
+"skins": {
+	"default": {
+		"레이어 1": {
+			"레이어 1": { "x": 2043, "y": -2043, "width": 4088, "height": 4088 }
+		},
+		"Box_Door": {
+			"Box_Door": { "x": 2613.5, "y": -1533, "width": 2917, "height": 1060 }
+		},
+		"character_background": {
+			"character_background": { "x": 1896.5, "y": -1955, "width": 3743, "height": 1386 }
+		},
+		"Back_L_Side_Hair_1_2": {
+			"Back_L_Side_Hair_1_2": { "x": 2284, "y": -1564.5, "width": 108, "height": 413 }
+		},
+		"Back_Hair": {
+			"Back_Hair": { "x": 2471.5, "y": -1526, "width": 1953, "height": 1534 }
+		},
+		"Back_L_Side_Hair_1": {
+			"Back_L_Side_Hair_1": { "x": 2184, "y": -1643, "width": 758, "height": 838 }
+		},
+		"L_Side_Hair_2_3": {
+			"L_Side_Hair_2_3": { "x": 2316, "y": -1306.5, "width": 132, "height": 583 }
+		},
+		"Soulder_L": {
+			"Soulder_L": { "x": 2415, "y": -1168.5, "width": 458, "height": 259 }
+		},
+		"L_Side_Hair_2_2": {
+			"L_Side_Hair_2_2": { "x": 2418.5, "y": -1338.5, "width": 367, "height": 519 }
+		},
+		"Arm_L": {
+			"Arm_L": { "x": 2415.5, "y": -1026.5, "width": 459, "height": 185 }
+		},
+		"Finger_R_2": {
+			"Finger_R_2": { "x": 3542, "y": -655.5, "width": 78, "height": 89 }
+		},
+		"Finger_R_2_1": {
+			"Finger_R_2_1": { "x": 3525, "y": -630, "width": 44, "height": 44 }
+		},
+		"Finger_R_1": {
+			"Finger_R_1": { "x": 3566, "y": -637, "width": 30, "height": 56 }
+		},
+		"Finger_R_1_1": {
+			"Finger_R_1_1": { "x": 3547, "y": -629.5, "width": 48, "height": 41 }
+		},
+		"THIGH_L": {
+			"THIGH_L": { "x": 2161, "y": -2078, "width": 716, "height": 372 }
+		},
+		"BODY": {
+			"BODY": { "x": 2659.5, "y": -1843.5, "width": 735, "height": 569 }
+		},
+		"THIGH_R": {
+			"THIGH_R": { "x": 2568, "y": -2094.5, "width": 1032, "height": 517 }
+		},
+		"Cloth ACC": {
+			"Cloth ACC": { "x": 2858.5, "y": -1936, "width": 425, "height": 266 }
+		},
+		"Back_Hair_R_Fr": {
+			"Back_Hair_R_Fr": { "x": 3133.5, "y": -1521.5, "width": 679, "height": 1535 }
+		},
+		"Back_R_Side_Hair_2_2": {
+			"Back_R_Side_Hair_2_2": { "x": 3133, "y": -1726.5, "width": 254, "height": 739 }
+		},
+		"Plug_Acc_Back": {
+			"Plug_Acc_Back": { "x": 2992, "y": -1605.5, "width": 446, "height": 793 }
+		},
+		"CHEST": {
+			"CHEST": { "x": 2577.5, "y": -1349.5, "width": 783, "height": 669 }
+		},
+		"Neck": {
+			"Neck": { "x": 2745.5, "y": -1192.5, "width": 127, "height": 119 }
+		},
+		"Face": {
+			"Face": { "x": 2705, "y": -966.5, "width": 476, "height": 469 }
+		},
+		"Mouth": {
+			"Mouth": { "x": 2703.5, "y": -1095.5, "width": 173, "height": 129 }
+		},
+		"CHEST_ACC": {
+			"CHEST_ACC": { "x": 2714.5, "y": -1312, "width": 153, "height": 160 }
+		},
+		"L_Side_Hair_3_1": {
+			"L_Side_Hair_3_1": { "x": 2564, "y": -963.5, "width": 216, "height": 405 }
+		},
+		"L_Side_Hair_2_1": {
+			"L_Side_Hair_2_1": { "x": 2426.5, "y": -1179.5, "width": 513, "height": 833 }
+		},
+		"L_Side_Hair_2": {
+			"L_Side_Hair_2": { "x": 2549.5, "y": -1053, "width": 105, "height": 306 }
+		},
+		"L_Side_Hair_1_1": {
+			"L_Side_Hair_1_1": { "x": 2594.5, "y": -933, "width": 65, "height": 204 }
+		},
+		"Back_R_Side_Hair__2_1": {
+			"Back_R_Side_Hair__2_1": { "x": 3341.5, "y": -1434.5, "width": 1205, "height": 1361 }
+		},
+		"Back_R_Side_Hair_1_1": {
+			"Back_R_Side_Hair_1_1": { "x": 3158.5, "y": -944.5, "width": 627, "height": 619 }
+		},
+		"R_Side_Hair_1_3": {
+			"R_Side_Hair_1_3": { "x": 2868, "y": -998.5, "width": 270, "height": 501 }
+		},
+		"Shoulder_R": {
+			"Shoulder_R": { "x": 3030, "y": -1114.5, "width": 590, "height": 701 }
+		},
+		"Hand_R": {
+			"Hand_R": { "x": 3501.5, "y": -653, "width": 185, "height": 148 }
+		},
+		"Arm_R": {
+			"Arm_R": { "x": 3344.5, "y": -821.5, "width": 547, "height": 485 }
+		},
+		"Ring_Back": {
+			"Ring_Back": { "x": 3434, "y": -781.5, "width": 34, "height": 41 }
+		},
+		"Arm_Acc_2": {
+			"Arm_Acc_2": { "x": 3429.5, "y": -835, "width": 57, "height": 150 }
+		},
+		"Arm_Acc_1": {
+			"Arm_Acc_1": { "x": 3412, "y": -835.5, "width": 78, "height": 145 }
+		},
+		"Arm_Acc_Line_2": {
+			"Arm_Acc_Line_2": { "x": 3441.5, "y": -744.5, "width": 39, "height": 69 }
+		},
+		"Ring_Fr": {
+			"Ring_Fr": { "x": 3422.5, "y": -777, "width": 27, "height": 28 }
+		},
+		"Arm_Acc_Line_1": {
+			"Arm_Acc_Line_1": { "x": 3421, "y": -776, "width": 80, "height": 144 }
+		},
+		"R_Side_Hair_1_2": {
+			"R_Side_Hair_1_2": { "x": 2823, "y": -1230, "width": 224, "height": 704 }
+		},
+		"Front_Hair_1_3": {
+			"Front_Hair_1_3": { "x": 2775.5, "y": -874.5, "width": 159, "height": 253 }
+		},
+		"R_Side_Hair_1_1": {
+			"R_Side_Hair_1_1": { "x": 2796, "y": -972.5, "width": 172, "height": 449 }
+		},
+		"Front_Hair_1_2": {
+			"Front_Hair_1_2": { "x": 2698, "y": -890, "width": 84, "height": 272 }
+		},
+		"Front_Hair_1_1": {
+			"Front_Hair_1_1": { "x": 2666, "y": -904, "width": 142, "height": 310 }
+		},
+		"Hair_Top": {
+			"Hair_Top": { "x": 2685.5, "y": -666.5, "width": 147, "height": 191 }
+		},
+		"Back_R_Side_Hair_1_2": {
+			"Back_R_Side_Hair_1_2": { "x": 3566.5, "y": -962, "width": 115, "height": 666 }
+		},
+		"Eyelid_L": {
+			"Eyelid_L": { "x": 2600, "y": -1026, "width": 60, "height": 84 }
+		},
+		"Eyelid_R": {
+			"Eyelid_R": { "x": 2763.5, "y": -962, "width": 95, "height": 54 }
+		},
+		"Eyebrow_L": {
+			"Eyebrow_L": { "x": 2586.5, "y": -950, "width": 69, "height": 64 }
+		},
+		"Eyebrow_R": {
+			"Eyebrow_R": { "x": 2728.5, "y": -884, "width": 105, "height": 46 }
+		},
+		"Foot": {
+			"Foot": { "x": 3115, "y": -2192, "width": 440, "height": 204 }
+		},
+		"LEG_R": {
+			"LEG_R": { "x": 2568.5, "y": -2217.5, "width": 1031, "height": 287 }
+		},
+		"TOE_R_2": {
+			"TOE_R_2": { "x": 3285.5, "y": -2236, "width": 67, "height": 36 }
+		},
+		"TOE_R_1": {
+			"TOE_R_1": { "x": 3271.5, "y": -2252, "width": 113, "height": 68 }
+		},
+		"BOX fr": {
+			"BOX fr": { "x": 1894, "y": -2465, "width": 3748, "height": 2076 }
+		},
+		"BOX Fr Shadow": {
+			"BOX Fr Shadow": { "x": 1894, "y": -2477.5, "width": 3748, "height": 2101 }
+		},
+		"BG_ACC": {
+			"BG_ACC": { "x": 1150.5, "y": -3184.5, "width": 419, "height": 323 }
+		},
+		"box open acc_1": {
+			"box open acc_1": { "x": 2043.5, "y": -2815.5, "width": 1607, "height": 1395 }
+		},
+		"box open acc_2": {
+			"box open acc_2": { "x": 3390, "y": -2771.5, "width": 804, "height": 1257 }
+		},
+		"goat_Hair": {
+			"goat_Hair": { "x": 3458.5, "y": -2578.5, "width": 283, "height": 827 }
+		},
+		"Plug_Acc_Fr": {
+			"Plug_Acc_Fr": { "x": 3340.5, "y": -2314, "width": 379, "height": 744 }
+		},
+		"Effect_led": {
+			"Effect_led": { "x": 2821, "y": -2568, "width": 342, "height": 350 }
+		},
+		"Effect_led_around": {
+			"Effect_led_around": { "x": 2813, "y": -2536.5, "width": 172, "height": 227 }
+		},
+		"원본 복사": {
+			"원본 복사": { "x": 2046, "y": -2042, "width": 4052, "height": 2942 }
+		},
+		"Neck_greenLight": {
+			"Neck_greenLight": { "x": 2733, "y": -1207, "width": 76, "height": 34 }
+		},
+		"Neck_greenLight_Arround": {
+			"Neck_greenLight_Arround": { "x": 2731.5, "y": -1208.5, "width": 91, "height": 47 }
+		},
+		"Box_Door_down": {
+			"Box_Door_down": { "x": 1894.5, "y": -2065.5, "width": 3765, "height": 701 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}
